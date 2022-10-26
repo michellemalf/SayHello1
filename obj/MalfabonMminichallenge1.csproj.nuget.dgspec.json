@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMminichallenge1/MalfabonMminichallenge1.csproj": {}
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MichellesSayHello\\SayHello1\\MalfabonMminichallenge1.csproj": {}
   },
   "projects": {
-    "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMminichallenge1/MalfabonMminichallenge1.csproj": {
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MichellesSayHello\\SayHello1\\MalfabonMminichallenge1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMminichallenge1/MalfabonMminichallenge1.csproj",
+        "projectUniqueName": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MichellesSayHello\\SayHello1\\MalfabonMminichallenge1.csproj",
         "projectName": "MalfabonMminichallenge1",
-        "projectPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMminichallenge1/MalfabonMminichallenge1.csproj",
-        "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
-        "outputPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/MalfabonMminichallenge1/obj/",
+        "projectPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MichellesSayHello\\SayHello1\\MalfabonMminichallenge1.csproj",
+        "packagesPath": "C:\\Users\\zerot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MichellesSayHello\\SayHello1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\zerot\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
